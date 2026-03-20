@@ -1,0 +1,8 @@
+pip install bitcoin-utils
+pip install requests
+pip install mnemonic
+pip install art
+pip install numpy
+pip install hdwallet==2.2.1
+
+python version 310
